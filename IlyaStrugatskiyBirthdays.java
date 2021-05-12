@@ -27,7 +27,7 @@ public class IlyaStrugatskiyBirthdays {
     private static final String host = "https://api.bing.microsoft.com";
     private static final String path = "/v7.0/custom/search";
     private static String subscriptionKey = "haha no screw off";
-    private static final String customConfigId = "f4689edd-c038-42ff-a524-a71ec059ca9c";
+    private static final String customConfigId = "";
     private static final String searchTerm = "Birthday facts for";
 
     public static void main(String[] args) {
