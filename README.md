@@ -1,2 +1,2 @@
 # BirthdayBingProject
-Really trash project, does require you to have the bing api and to setup gson.
+Extra credit project for Intro to Java Programming which tries to use the bing API to tell you what happened on your birthday.
